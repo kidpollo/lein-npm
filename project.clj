@@ -1,4 +1,4 @@
-(defproject kidpollo/lein-npm "0.7.3-SNAPSHOT"
+(defproject kidpollo/lein-npm "0.7.3"
   :description "Manage npm dependencies for CLJS projects"
   :url "https://github.com/kidpollo/lein-npm"
   :license {:name "Apache License, version 2.0"
